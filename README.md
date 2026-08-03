@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**DLFindlay/DLFindlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.----------------.             dlfindlay@growth-terminal
+      /  _______________ \            ------------------------
+     /  /               \ \           . Role: ...... Growth Marketer & AI Builder
+    /  /                 \ \          . Location: .. [Your Location]
+   /  /       ____        \ \         . Stack: ..... Claude, Python, SQL, Make/n8n
+  /  /       / __ \        \ \        . IDE: ....... VSCode, Cursor
+ /  /       / /  \ \        \ \       ---------------------------------------------
+/  /       / /    \ \        \ \      . Focus: ..... AI-Native GTM Systems
+ \ \_______/ /______\ \_______/ /     . Building: .. Custom AI Skills & Pipelines
+  \_____________________________/     . Hobbies: ... [Your Hobbies]
+                                      ---------------------------------------------
+                                      . LinkedIn: .. linkedin.com/in/[your-linkedin]
+                                      . X/Twitter: . x.com/[your-handle]
+                                      . Substack: .. [yourname].substack.com
