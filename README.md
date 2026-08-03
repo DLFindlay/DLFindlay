@@ -9,7 +9,7 @@
                                   . Track Record: 30+ Club Deals | KPMG Data Background | MSc MBA
                                   . Tech Stack: . Claude, Python, Salesforce, HubSpot, Apollo
                                   ---------------------------------------------
-                                  . LinkedIn: .. [https://linkedin.com/in/dlfindlay](https://linkedin.com/in/dlfindlay)
+                                  . LinkedIn: .. https://linkedin.com/in/dlfindlay
 ```
 
 ## 👋 About Me
