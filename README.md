@@ -1,4 +1,5 @@
-____  _     _____               dlfindlay@growth-terminal
+```text
+  ____  _     _____               dlfindlay@growth-terminal
  |  _ \| |   |  ___|              ------------------------
  | | | | |   | |_                 . Role: ...... Head of Growth @ A-Champs & Goal Station
  | |_| | |___|  _|                . Location: .. Greater Barcelona Metropolitan Area
