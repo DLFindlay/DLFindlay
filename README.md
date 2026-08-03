@@ -3,13 +3,13 @@
  |  _ \| |   |  ___|              ------------------------
  | | | | |   | |_                 . Role: ...... Head of Growth @ A-Champs & Goal Station
  | |_| | |___|  _|                . Location: .. Greater Barcelona Metropolitan Area
- |____/|_____|_|                  . Stack: ..... SportsTech, ROX Tech, Commercial Strategy
+ |____/|_____|_|                  . Stack: ..... SportsTech, Partnerships, Commercial Strategy
                                   ---------------------------------------------
                                   . Focus: ..... Strategic Partnerships & International Expansion
                                   . Building: .. Tech-Enabled Athlete Training Environments
                                   . Hobbies: ... Sports Performance, Football IQ
                                   ---------------------------------------------
-                                  . LinkedIn: .. [linkedin.com/in/dlfindlay](https://linkedin.com/in/dlfindlay)
+                                  . LinkedIn: .. https://linkedin.com/in/dlfindlay
 ```
 
 ## 👋 About Me
