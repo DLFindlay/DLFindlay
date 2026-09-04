@@ -29,7 +29,6 @@ I bridge traditional sports management with AI-native execution—building custo
 * 🎯 **Sports-Tech-Lead-Scraper** — Automated pipeline built with Python & Claude to enrich and prioritise high-intent football clubs, national associations, and performance hubs.
 * ⚡ **ROX-Activation-Prompts** — Custom prompt architecture and Claude workflows designed to streamline sponsorship proposal generation and B2B sales enablement.
 * 📊 **Federation-Deal-Tracker** — Data-driven model for analysing international market dynamics, contractual rights inventory, and commercial ROI benchmarks.
-* ⚽ **[KiqIQ](https://kiqiq.com)** — Full-stack football intelligence and analytics platform featuring automated match-slate health checks, semantic SEO architecture, first-party tracking proxy, and anti-hallucination grounded data pipelines.
 
 ---
 
