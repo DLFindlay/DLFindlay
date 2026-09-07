@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Commercial Growth & Sponsorship Executive with **7+ years of experience** expanding high-value revenue pipelines across global sports properties, performance tech, and federations.
+Commercial Growth & Marketing Manager with **7+ years of experience** expanding high-value revenue pipelines across global sports properties, performance tech, and federations.
 
 * **Head of Growth @ A-Champs & Goal Station:** Leading international commercial expansion, B2B rights sales, and acquisition integration. Closed deals with **30+ elite football clubs and national associations** globally.
 * **Commercial Advisor @ Walton & Hersham FC:** Advising on commercial strategy, sponsorship growth, and revenue diversification.
