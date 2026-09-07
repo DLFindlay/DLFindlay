@@ -3,7 +3,7 @@
  |  _ \| |   |  ___|              ------------------------
  | | | | |   | |_                 . Role: ...... Head of Growth @ A-Champs & Goal Station
  | |_| | |___|  _|                . Advisor: ... Commercial Advisor @ Walton & Hersham FC
- |____/|_____|_|                  . Location: .. Barcelona, Spain (British & Irish Passports)
+ |____/|_____|_|                  . Location: .. Northern Ireland / Spain (British & Irish Passports)
                                   ---------------------------------------------
                                   . Focus: ..... Global B2B Partnerships & Revenue Diversification
                                   . Track Record: 30+ Club Deals | KPMG Data Background | MSc MBA
@@ -29,6 +29,7 @@ I bridge traditional sports management with AI-native execution—building custo
 * 🎯 **Sports-Tech-Lead-Scraper** — Automated pipeline built with Python & Claude to enrich and prioritise high-intent football clubs, national associations, and performance hubs.
 * ⚡ **ROX-Activation-Prompts** — Custom prompt architecture and Claude workflows designed to streamline sponsorship proposal generation and B2B sales enablement.
 * 📊 **Federation-Deal-Tracker** — Data-driven model for analysing international market dynamics, contractual rights inventory, and commercial ROI benchmarks.
+* 🧠 **KiqIQ-Football-Engine** — Transparent AI-driven football intelligence platform combining real-time multi-source data, xG models, and Poisson distribution engines to surface value metrics and predictive match insights.
 
 ---
 
@@ -47,5 +48,5 @@ I bridge traditional sports management with AI-native execution—building custo
 
 * 💼 **Roles:** Head of Growth @ [A-Champs](https://a-champs.com) & [Goal Station](https://goal-station.com) | Commercial Advisor @ [Walton & Hersham FC](https://waltonhershamfc.com)
 * 🤝 **Connect:** [LinkedIn Profile](https://linkedin.com/in/dlfindlay)
-* 🎯 **Core Skills:** B2B Sponsorship Sales, Rights Management, Data Analytics, Senior Stakeholder Diplomacy, CRM (Salesforce/HubSpot)
-* 📍 **Base:** Barcelona, Spain (Full UK & EU Right to Work)
+* 🎯 **Core Skills:** B2B Sponsorship Sales, Rights Management, Data Analytics, Senior Stakeholder Diplomacy, CRM
+* 📍 **Base:** Northern Ireland / Spain (Full UK & EU Right to Work)
