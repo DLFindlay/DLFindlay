@@ -24,7 +24,7 @@ I bridge traditional sports management with AI-native execution—building custo
 
 ---
 
-## 🛠️ AI & GTM Systems (Proof of Work)
+## 🛠️ AI & GTM Systems
 
 * 🎯 **Sports-Tech-Lead-Scraper** — Automated pipeline built with Python & Claude to enrich and prioritise high-intent football clubs, national associations, and performance hubs.
 * ⚡ **ROX-Activation-Prompts** — Custom prompt architecture and Claude workflows designed to streamline sponsorship proposal generation and B2B sales enablement.
