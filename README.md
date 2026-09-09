@@ -3,9 +3,9 @@
  |  _ \| |   |  ___|              ------------------------
  | | | | |   | |_                 . Role: ...... Head of Growth @ A-Champs & Goal Station
  | |_| | |___|  _|                . Advisor: ... Commercial Advisor @ Walton & Hersham FC
- |____/|_____|_|                  . Location: .. Northern Ireland / Spain (British & Irish Passports)
+ |____/|_____|_|                  . Location: .. Northern Ireland (British & Irish Passports)
                                   ---------------------------------------------
-                                  . Focus: ..... Global B2B Partnerships & Revenue Diversification
+                                  . Focus: ..... Global Partnerships & Revenue Diversification
                                   . Track Record: 30+ Club Deals | KPMG Data Background | MSc MBA
                                   . Tech Stack: . Claude, Python, Salesforce, HubSpot, Apollo
                                   ---------------------------------------------
@@ -49,5 +49,5 @@ I bridge traditional sports management with AI-native execution—building custo
 
 * 💼 **Roles:** Head of Growth @ [A-Champs](https://a-champs.com) & [Goal Station](https://goal-station.com) | Commercial Advisor @ [Walton & Hersham FC](https://waltonhershamfc.com)
 * 🤝 **Connect:** [LinkedIn Profile](https://linkedin.com/in/dlfindlay)
-* 🎯 **Core Skills:** B2B Sponsorship Sales, Rights Management, Data Analytics, Senior Stakeholder Diplomacy, CRM
-* 📍 **Base:** Northern Ireland / Spain (Full UK & EU Right to Work)
+* 🎯 **Core Skills:** Partnerships, Marketing, Rights Management, Data Analytics, Senior Stakeholder Diplomacy, CRM
+* 📍 **Base:** Northern Ireland (Full UK & EU Right to Work)
