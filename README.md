@@ -30,6 +30,7 @@ I bridge traditional sports management with AI-native execution—building custo
 * ⚡ **ROX-Activation-Prompts** — Custom prompt architecture and Claude workflows designed to streamline sponsorship proposal generation and B2B sales enablement.
 * 📊 **Federation-Deal-Tracker** — Data-driven model for analysing international market dynamics, contractual rights inventory, and commercial ROI benchmarks.
 * 🧠 **KiqIQ-Football-Engine** — Transparent AI-driven football intelligence platform combining real-time multi-source data, xG models, and Poisson distribution engines to surface value metrics and predictive match insights.
+* 🧭 **KiqIQ-Partnerships**-Readiness-Suite: Free-to-use valuation calculator and readiness scorecard that score a club's audience, inventory, and sponsor-readiness using standardised, source-labelled confidence tiers.
 
 ---
 
