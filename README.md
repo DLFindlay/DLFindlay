@@ -50,4 +50,3 @@ I bridge traditional sports management with AI-native execution—building custo
 * 💼 **Roles:** Head of Growth @ [A-Champs](https://a-champs.com) & [Goal Station](https://goal-station.com) | Commercial Advisor @ [Walton & Hersham FC](https://waltonhershamfc.com)
 * 🤝 **Connect:** [LinkedIn Profile](https://linkedin.com/in/dlfindlay)
 * 🎯 **Core Skills:** Partnerships, Marketing, Rights Management, Data Analytics, Senior Stakeholder Diplomacy, CRM
-* 📍 **Base:** Northern Ireland (Full UK & EU Right to Work)
